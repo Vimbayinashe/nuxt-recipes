@@ -1,4 +1,8 @@
-# recipes
+# Recipes
+
+``````
+A simple recipes app to test nuxt.js.
+``````
 
 ## Build Setup
 
